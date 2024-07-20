@@ -69,6 +69,14 @@ thermal_jatm.ko
 btif_drv.ko
 connadp.ko
 connscp.ko
+connfem.ko
+conninfra.ko
+wmt_chrdev_wifi_connac2.ko
+wlan_drv_gen4m_6983.ko
+fmradio_drv_connac2x.ko
+gps_drv_dl_v050.ko
+gps_pwr.ko
+bt_drv_6983.ko
 mtk_gpu_qos.ko
 nvmem-mt6338-efuse.ko
 nvmem-mt635x-efuse.ko
@@ -140,6 +148,7 @@ mtk-mbox.ko
 mtk_tinysys_ipi.ko
 fhctl.ko
 scp.ko
+gps_scp.ko
 mtk_ccu.ko
 hf_manager.ko
 sensorhub.ko
