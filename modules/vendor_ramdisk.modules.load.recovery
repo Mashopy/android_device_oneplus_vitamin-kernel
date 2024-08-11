@@ -57,7 +57,6 @@ iommu_secure.ko
 mtk_iommu.ko
 mtk_mm_heap.ko
 system_heap.ko
-oplus_boost_pool_mtk.ko
 mtk-cmdq-drv-ext.ko
 cmdq-platform-mt6983.ko
 rt4831a_drv.ko
@@ -152,13 +151,7 @@ mtk_pep40.ko
 mtk_pd_charging.ko
 mtk_pep20.ko
 mtk_pep.ko
-oplus21007_samsung_amb670yf01_qhd_dsi_cmd.ko
-oplus22021_boe_nt37701a_fhd_dsi_cmd.ko
-oplus22021_samsung_amf680cm01_fhd_dsi_cmd.ko
-oplus22921_novatek_nt36532w_vdo_144hz.ko
 ktz8866.ko
-oplus22021_boe_nt37705_fhd_cmd.ko
-panel-foldable-fhd-cmd.ko
 mediatek-drm.ko
 mt6375-battery.ko
 pwm-mtk-disp.ko
@@ -211,8 +204,6 @@ oplus_secure_harden.ko
 oplus_security_guard.ko
 oplus_security_keventupload.ko
 arm_dsu_pmu.ko
-uload_ind.ko
-load_track.ko
 cache-parity.ko
 emi-slb.ko
 bus-parity.ko
@@ -224,10 +215,8 @@ haptic.ko
 haptic_feedback.ko
 sim_detect.ko
 oplus_gpio.ko
-oplus_bsp_zsmalloc.ko
 oplus_bsp_tp_notify.ko
 sg.ko
 oplus_secure_common.ko
 olc.ko
 horae_shell_temp.ko
-oplus_ipa_thermal.ko

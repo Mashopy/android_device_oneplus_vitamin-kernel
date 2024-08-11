@@ -54,7 +54,6 @@ iommu_secure.ko
 mtk_iommu.ko
 mtk_mm_heap.ko
 system_heap.ko
-oplus_boost_pool_mtk.ko
 oplus_mm_kevent.ko
 oplus_mm_kevent_fb.ko
 mtk-cmdq-drv-ext.ko
@@ -77,7 +76,6 @@ oplusboot.ko
 buildvariant.ko
 oplus_project.ko
 mtk_boot_common.ko
-mtk_force_shutdown.ko
 oplus_bootargs.ko
 8250_mtk.ko
 phy-mtk-xsphy.ko
@@ -151,13 +149,7 @@ mtk_pep40.ko
 mtk_pd_charging.ko
 mtk_pep20.ko
 mtk_pep.ko
-oplus21007_samsung_amb670yf01_qhd_dsi_cmd.ko
-oplus22021_boe_nt37701a_fhd_dsi_cmd.ko
-oplus22021_samsung_amf680cm01_fhd_dsi_cmd.ko
-oplus22921_novatek_nt36532w_vdo_144hz.ko
 ktz8866.ko
-oplus22021_boe_nt37705_fhd_cmd.ko
-panel-foldable-fhd-cmd.ko
 mediatek-drm.ko
 mt6375-battery.ko
 pwm-mtk-disp.ko
@@ -186,16 +178,13 @@ adsp.ko
 mtk_slbc.ko
 slbc_mt6983.ko
 slbc_ipi.ko
-oplus_omrg.ko
 mediatek-cpufreq-hw.ko
-cpufreq_bouncing.ko
 vcp_status.ko
 meta.ko
 cfg80211.ko
 mac80211.ko
 mtk-socinfo.ko
 rt_pd_manager.ko
-oplus_bsp_mm_osvelte.ko
 oplus_nfc.ko
 pn553.ko
 sn_ese.ko
@@ -211,10 +200,5 @@ emi-slb.ko
 sim_detect.ko
 oplus_gpio.ko
 kernel_fb.ko
-oplus_phoenix.ko
-oplus_kmsg_wb.ko
-shutdown_detect.ko
 olc.ko
 horae_shell_temp.ko
-oplus_ipa_thermal.ko
-oplus_bsp_look_around.ko
